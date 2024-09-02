@@ -8,6 +8,3 @@ print(type("Leena"))
 print(type(120))
 print(type(120.45))
 print(type(1>2))
-
-
-
